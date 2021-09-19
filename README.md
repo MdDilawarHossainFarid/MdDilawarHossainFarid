@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mddilawarhossainfarid&label=Profile%20views&color=0e75b6&style=flat" alt="mddilawarhossainfarid" /> </p>
 
-- 🔭 I’m currently working on **Hooks**
+- 🔭 I’m currently working on **REST API**
 
-- 🌱 I’m currently learning **Nodejs,Expressjs**
+- 🌱 I’m currently learning **Nodejs,Expressjs,Mongodb**
 
 - 💬 Ask me about **anything**
 
